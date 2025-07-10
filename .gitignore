@@ -1,0 +1,10 @@
+# 環境構築用env
+.env
+
+# 環境変数
+app/envs/*.env
+
+
+# Pythonキャッシュファイル
+*.pyc
+

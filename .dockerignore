@@ -1,0 +1,7 @@
+# ソース管理不要なキャッシュ類
+**/__pycache__
+**/.ruff_cache
+**/.pytest_cache
+*.py[cod]
+.git
+*.log
